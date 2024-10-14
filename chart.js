@@ -91,4 +91,6 @@ createLineChart() {
 
     new Chart(this.lineCtx, config); 
 }
-
+// Initialize the line chart
+const lineChartCreator = new LineChart('data.json');
+lineChartCreator.init();
