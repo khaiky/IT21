@@ -1,4 +1,4 @@
 {
-    "Ice Cream Flavor": ["Chocolate", "Vanilla", "Strawberry", "Ube"],
-    "Best Seller": [90, 50, 50, 60]
+    "labels": ["Chocolate", "Vanilla", "Strawberry", "Ube"],
+    "data": [90, 60, 70, 70]
 }
